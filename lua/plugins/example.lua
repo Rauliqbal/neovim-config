@@ -193,6 +193,7 @@ return {
         "html-lsp",
         "json-lsp",
         "prettier",
+        "typescript-language-server",
         "tailwindcss-language-server",
         "vue-language-server",
       },

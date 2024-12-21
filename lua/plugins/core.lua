@@ -6,4 +6,8 @@ return {
     },
   },
   { "akinsho/toggleterm.nvim", version = "*", config = true },
+  {
+    "Exafunction/codeium.vim",
+    event = "BufEnter",
+  },
 }
